@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213260780399",
+    "project_id": "flutterportalberita",
+    "storage_bucket": "flutterportalberita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213260780399:android:900f7137567b85e182de9a",
+        "android_client_info": {
+          "package_name": "com.example.portal_berita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213260780399-cjvps92kq39933i1lp7vu5pm6dhpkbvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.portal_berita",
+            "certificate_hash": "ced981eb2dad82a7fa5901c9ec2ceec2337cca1a"
+          }
+        },
+        {
+          "client_id": "213260780399-5ucfmap32kjqbhe4idh5afi5ekbfvp64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_3mxAk7EaQ_EcVC3mk2H2qmviUtJLvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213260780399-5ucfmap32kjqbhe4idh5afi5ekbfvp64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
